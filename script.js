@@ -18,3 +18,101 @@ function check(){
     }
     alert("congratulations!!!! you got" + count + "marks");
 }
+
+
+// listofnovels
+
+let listOfNovels = {
+    genere: "fiction",
+    newReleases: {
+        patsy: "",
+        orphanSong: "",
+        thehidtoryOfLivingForever: "",
+        elviaWiki:
+            theEmpror:
+        AmericaWasHardToFind:
+            theOrgansOfSense:
+        theArchiveOfAlternateEndings:
+            pleaseReadThisLeafletCarefully:
+        eleanorOliPhant:
+            CityOfGirls:
+        AFireSprkling:
+            ThePerfectchild:
+        littleFiresEveryWhere:
+            theOverDueLifeOfAmuByler:
+        theWomenInTheWindow:
+            keirtinHannah:
+        lianeMoriarity:
+            theCactus:
+        everyThingINeverToldYou:
+            alongTheBrokenBay:
+        relativeFortunes:
+            haveYouSeenLouisVlez:
+        aGentelmenInMoscow:
+            jennyEclair:
+        less:
+            therStoryTellerSecret:
+        behindClosedDoors:
+            iAmFineAndNeitherAreYou:
+        onEarthWeAreBreiflyGorgeious:
+            AftertheEnd:
+        theBeeKeepersPromise:
+            theArchiveOfAlternateEndings:
+        thelastHouseGuest:
+            thereThere:
+        aWomenIsNoMan:
+            danBrownOrigin:
+        billClintonAndJamesPtraison:
+            theFarm:
+        thePerfectNanny:
+        aCurveInTheroad:
+        theGiftedSchool:
+        theLastRomantics:
+        jodiPicoult:
+        JohnGrisham:
+        allTheLightWeCannotSee:
+        theFriendsWeKeep:
+        theRivere:
+        pachinko:
+        thisIsHowItAlwaysIs:
+        theArtOFInheritingSecret:
+        washingtonBlack:
+        theOverStory:
+        ifOnlyIcouldTellYou:
+        whenAllISSaid:
+        theguestBook:
+        theGreatBelievers:
+        theMostfunWeEverHad:
+        coldWaters:
+        theKeepersOFLOstThing:
+        carolynBrown:
+        valenicaAndValentine:
+        thomasHarris:
+        iAnMcwan:
+        barbaraKingsLover:
+        clockDance:
+        exitWest:
+        homeGoing:
+        womenLastSeenInHerThirtees:
+        milkMan:
+        trueplaces:
+        theKillerCollective:
+        necessaryPeople:
+        singUnburiedSing:
+        justiceReedeemed:
+        ourSoulsatNight:
+        elMurMulloDelasAbejas:
+
+
+
+
+
+
+
+
+    
+
+    },
+
+
+}
