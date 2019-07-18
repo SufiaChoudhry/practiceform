@@ -116,3 +116,36 @@ let listOfNovels = {
 
 
 }
+
+
+
+function doubleAmount (numb) {
+    let answer = numb + numb;
+return answer;
+}
+ 
+doubleAmount(6);
+
+function greet (name) {
+   return "welcome, " + name + "!";
+  
+}
+
+greet ("sofia");
+
+function myName (name) {
+  
+ return name.length;
+                 
+}
+myName("hello")
+console.log(myName("hello"));
+
+
+function convertToCapital (word){
+  return word.toUpperCase();
+}
+convertToCapital("naeema")
+
+
+
